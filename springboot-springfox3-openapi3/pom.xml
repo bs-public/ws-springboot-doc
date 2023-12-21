@@ -11,9 +11,9 @@
 	</parent>
 
 	<groupId>com</groupId>
-	<artifactId>springboot-springfox-openapi3</artifactId>
+	<artifactId>springboot-springfox3-openapi3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-springfox-openapi3</name>
+	<name>springboot-springfox3-openapi3</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

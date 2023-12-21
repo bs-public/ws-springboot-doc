@@ -11,9 +11,9 @@
 	</parent>
 
 	<groupId>com</groupId>
-	<artifactId>springboot-springdoc-openapi-v1</artifactId>
+	<artifactId>springboot-springdoc-v1-openapi3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-springdoc-openapi-v1</name>
+	<name>springboot-springdoc-v1-openapi3</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
